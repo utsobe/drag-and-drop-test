@@ -24,6 +24,10 @@
     margin: 20px;
 }
 
+.box.dragging {
+    opacity: .5;
+}
+
 .green {
     background-color: #6D8765;
 }
